@@ -182,27 +182,27 @@ function TimelineDemo() {
       ),
     },
     {
-      title: "Changelog",
+      title: "Big Family",
       content: (
         <div>
           <p className="text-neutral-800 dark:text-neutral-200 text-xs md:text-sm font-normal mb-4">
-            Deployed 5 new components on Aceternity today
+            Meskipun Cicurug-9 adalah rayon yang termasuk baru, generasi yang mulai turun termurun ini siap untuk terus!!
           </p>
           <div className="mb-8">
             <div className="flex gap-2 items-center text-neutral-700 dark:text-neutral-300 text-xs md:text-sm">
-              ✅ Card grid component
+              ✅ Takwa kepada Tuhan
             </div>
             <div className="flex gap-2 items-center text-neutral-700 dark:text-neutral-300 text-xs md:text-sm">
-              ✅ Startup template Aceternity
+              ✅ Berbakti pada orang tua
             </div>
             <div className="flex gap-2 items-center text-neutral-700 dark:text-neutral-300 text-xs md:text-sm">
-              ✅ Random file upload lol
+              ✅ Berjuang demi negara
             </div>
             <div className="flex gap-2 items-center text-neutral-700 dark:text-neutral-300 text-xs md:text-sm">
-              ✅ Himesh Reshammiya Music CD
+              ✅ Siap terjun dalam dunia kerja
             </div>
             <div className="flex gap-2 items-center text-neutral-700 dark:text-neutral-300 text-xs md:text-sm">
-              ✅ Salman Bhai Fan Club registrations open
+              ✅ Sukses!
             </div>
           </div>
           <div className="grid grid-cols-2 gap-4">
